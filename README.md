@@ -1,0 +1,2 @@
+# premium-center-drill-001-center-drill-grinding-spot-f
+Tired of losing track of your center drill geometries and spot face dimensions across scattered notes and spreadsheets? Your precision work deserves a dedicated studio — not a chaotic mess.  This Notion template transforms your workflow into a structured craft studio, centralizing all your center drill grinding parameters, spot face specs, and tool
